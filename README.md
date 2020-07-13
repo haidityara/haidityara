@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://scontent-cgk1-1.xx.fbcdn.net/v/t1.15752-9/107095775_320233986034454_5650651551436693398_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_eui2=AeHpIbpb9kxSG-4uJqCPogoEm6ZzEIWGbVibpnMQhYZtWKGaisUX201HYifCgKqu5r9cj0vuDm5ZntSRZ5EBFmi7&_nc_ohc=Co7CBElgnsIAX8gM_Ai&_nc_ht=scontent-cgk1-1.xx&oh=a52afa03c9b300416919118e2843d351&oe=5F314A29" width="400px">
+  <img src="https://instagram.fsoc1-1.fna.fbcdn.net/v/t51.2885-15/e35/50052839_343582729581194_4427161576370339058_n.jpg?_nc_ht=instagram.fsoc1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=LA5S4P_qbJgAX8h_19z&oh=69e9a14e0dcc426684f3dc3a6e4fbbce&oe=5F35B0DC" width="400px">
   <br>
   <samp>
     Hello, I'm Aditya! :wink: from Indonesia.
