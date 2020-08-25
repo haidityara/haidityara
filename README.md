@@ -8,7 +8,7 @@
     Hello, I'm Aditya! :wink: from Indonesia.
     Just a human with infinity and beyond imagination. Beside's programming, I enjoy eating food and playing games.<br>
     :school:  at University of DIAN NUSWANTORO <br>
-    :sparkles: Favorite Tech: Javascript<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>, Python<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>, & React<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>. <br>
+    :sparkles: Favorite Tech: Python | Swift <br>
     :notebook: I’m currently learning Mobile Dev & Computer Science <br>
     :email:	haidityara@gmail.com <br>
     :video_game: DOTA2 | Valorant | APEX <br>
@@ -20,6 +20,8 @@
   ![github stats](https://github-readme-stats.vercel.app/api?username=dityara17&show_icons=true)
 </p>
 
+
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>, Python<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>, & React<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>.  -->
 
 
 
