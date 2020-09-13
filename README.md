@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dsbfzzj2p/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1599995603/images/google.jpg" width="400px">
+  <img src="https://res.cloudinary.com/dsbfzzj2p/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:fff/v1599995603/images/google.jpg" width="400px">
   <br>
   <samp>
     Hello, I'm Aditya! :wink: from Indonesia.
