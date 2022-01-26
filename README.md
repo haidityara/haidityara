@@ -7,7 +7,7 @@
     Just a human with infinity and beyond imagination. Beside's programming, I enjoy eating food and playing games.<br>
     :school:  at University of DIAN NUSWANTORO <br>
     :sparkles: Favorite Tech: Mobile <br>
-    :notebook: I’m currently learning Web Front-end dev <br>
+    :notebook: I’m currently learning Web.3 <br>
     :email:	haidityara@gmail.com <br>
     :video_game: DOTA2 | Valorant | APEX <br>
     :musical_note: Nadin | Mocca | Martin Garrix | ReoNa <br>
