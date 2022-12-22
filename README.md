@@ -16,6 +16,7 @@
 <a href="https://www.instagram.com/haidityara/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><br>
   
   ![github stats](https://github-readme-stats.vercel.app/api?username=haidityara&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haidityara&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
